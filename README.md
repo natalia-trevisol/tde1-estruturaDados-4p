@@ -1,31 +1,35 @@
 # TDE 01 – Manipulação de Pilhas, Filas Dinâmicas e Merge
 
-Atividade da disciplina **Resolução de Problemas Estruturados em Computação** – Ciência da Computação - PUCPR.
-Aluna: Natalia Moritani Trevisol
-Turma: B - manha
+Atividade da disciplina **Resolução de Problemas Estruturados em Computação** – Ciência da Computação - PUCPR.  
+**Aluna:** Natalia Moritani Trevisol  
+**Turma:** B - manhã
 
-##Descrição
+---
+
+## Descrição
 Este trabalho implementa:
-1. Pilha dinâmica (Lista Encadeada) com métodos:
-   - 'insere' (push)
-   - 'remove' (pop)
-   - 'imprime' (listar elementos)
 
-2. Fila dinâmica (Lista Encadeada) com métodos:
-   - 'insere' (enqueue)
-   - 'remove' (dequeue)
-   - 'imprime' (listar elementos)
+1. **Pilha dinâmica (Lista Encadeada)** com métodos:
+   - `insere` (push)
+   - `remove` (pop)
+   - `imprime` (listar elementos)
 
-3. Merge de duas filas ordenadas:
+2. **Fila dinâmica (Lista Encadeada)** com métodos:
+   - `insere` (enqueue)
+   - `remove` (dequeue)
+   - `imprime` (listar elementos)
+
+3. **Merge de duas filas ordenadas:**
    - Versão com listas encadeadas
    - Versão com vetores
 
-##Como Executar
-###Requisitos
+## Como Executar
+
+### Requisitos
 - Java JDK 11 ou superior
 - Terminal ou IDE (IntelliJ, Eclipse, VSCode)
 
-###Passos
+### Passos
 1. Clone este repositório:
    ```bash
    git clone https://github.com/natalia-trevisol/tde1-estruturaDados-4p.git
@@ -39,7 +43,7 @@ Este trabalho implementa:
    ```bash
    java Main
 
-###Menu do programa
+### Menu do programa
 Ao executar, você verá o seguinte menu interativo:
 
 *---------- MENU ----------*
